@@ -1,1 +1,1 @@
-rintf group project done by Robert Maina Njoroge and Jeane Okello
+Printf group project done by Robert Maina Njoroge and Jeane Okello
