@@ -1,4 +1,4 @@
-_printf is a is a custom implementation of the C programming function printf. Group project done by Robert Maina Njoroge and Jeane Okello. ALX Cohrot 9 2022.
+printf is a is a custom implementation of the C programming function printf. Group project done by Robert Maina Njoroge and Jeane Okello. ALX Cohrot 9 2022.
 
 Prototype: int _printf(const char *, ...);
 
